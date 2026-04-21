@@ -1,0 +1,8 @@
+kind: custom
+id: workflow-register
+projectDir: .
+title: "Register"
+description: "Register"
+language: typescript
+workflows:
+  - dir: workflow-register
