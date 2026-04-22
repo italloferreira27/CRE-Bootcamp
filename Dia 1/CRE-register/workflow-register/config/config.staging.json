@@ -1,6 +1,0 @@
-{
-  "schedule": "*/5 * * * *",
-  "chainSelectorName": "ethereum-testnet-sepolia",
-  "registerUsingCRESolAddress": "0x3e21E2C35B228bCdf22163D5567F6FAa0c9D93De",
-  "gasLimit": "500000"
-}
