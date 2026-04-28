@@ -1,5 +1,5 @@
 {
-  "geminiModel": "gemini-2.0-flash",
+  "geminiModel": "gemini-2.5-flash",
   "evms": [
     {
       "marketAddress": "0x1bd10E283eFE84526A27b08130915b8625bc29D7",
